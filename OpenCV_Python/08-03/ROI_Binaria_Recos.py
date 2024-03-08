@@ -1,6 +1,8 @@
 import cv2
 import numpy as np
 
+#FEITO PELO WILLIANS
+
 def showImage(img):
     global obj_img
 
