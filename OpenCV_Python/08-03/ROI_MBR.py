@@ -1,6 +1,8 @@
 import cv2
 import numpy as np
 
+#FEITO PELO DANIEL
+
 def showImage(img):
 
     obj_img = cv2.imread(img)
